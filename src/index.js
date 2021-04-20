@@ -23,15 +23,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
-// function App() {
-//   return (
-//     <ThemeProvider theme={newTheme}>
-//       <CSSReset />
-//       <Header />
-//       <App />
-//     </ThemeProvider>
-//   );
-// }
-
-// const rootElement = document.getElementById("root");
-// ReactDOM.render(<App />, rootElement);
